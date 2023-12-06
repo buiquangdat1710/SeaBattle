@@ -13,7 +13,7 @@ The project was done by [Bùi Quang Đạt](https://github.com/naa-ntu), in the 
 ## Software Design (UML)
 
 ### Class Diagram:
-![Alt text](Class Diagram.png)
+![Alt text](ClassDiagram.png)
 
 ### Activity Diagram: Updating
 
