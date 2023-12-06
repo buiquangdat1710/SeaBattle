@@ -31,7 +31,7 @@ The project was done by [Bùi Quang Đạt](https://github.com/buiquangdat1710),
 - Player can play with computer
 - Player can play with another player
 - Player can choose game mode
-- Computer can play with another player
+- Computer can play with another computer
 - Players can buy items from the weapon shop and special skill shop
 - The Computer has 3 modes: Easy, Hard, Impossible.
 - Users can edit background music and weather sounds.
