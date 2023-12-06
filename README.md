@@ -50,27 +50,21 @@ The project was done by [Bùi Quang Đạt](https://github.com/naa-ntu), in the 
 ```bash
 
 ├── src
-│   ├── main
-│   │   ├── java
-│   │   │   ├── controller
-│   │   │   │   ├── GameController.java
-│   │   │   │   ├── GameMode.java
-│   │   │   │   ├── GameStatus.java
-│   │   │   │   ├── Player.java
-│   │   │   │   ├── Ship.java
-│   │   │   │   ├── ShipType.java
-│   │   │   │   └── Square.java
-│   │   │   ├── model
-│   │   │   │   ├── Board.java
-│   │   │   │   ├── Cell.java
-│   │   │   │   ├── Game.java
-│   │   │   │   ├── GameBoard.java
-│   │   │   │   ├── GameCell.java
-│   │   │   │   ├── GamePlayer.java
-│   │   │   │   ├── GameShip.java
-│   │   │   │   ├── GameSquare.java
-
-
+│   ├── Sound
+│   ├── Classes
+│   │   │   ├── CuaHangSkill.java
+│   │   │   ├── Main.java
+│   │   │   ├── CuaHangVuKhi.java
+│   │   │   ├── HuongDan.java
+│   │   │   ├── DeBug.java
+│   │   │   ├── KhaiHoa.java
+│   │   │   ├── MayTinh.java
+│   │   │   ├── Menu.java
+│   │   │   ├── Menu2NguoiChoi.java
+│   │   │   ├── NguoiChoi.java
+│   │   │   ├── Sound.java
+│   │   │   ├── Thuyen.java
+│   │   │   ├── ToaDo.java
 ```
 
 ## Contributing
